@@ -11,6 +11,8 @@ or will not subscribe a term deposit.
 
 The Jupyter notebook can be found here:
 
+https://github.com/sramshey/prompt_III/blob/main/prompt_III.ipynb
+
 ## Methods
 
 Exploration of the data involved creating visualizations of the various features and exploration
